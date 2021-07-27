@@ -1,0 +1,5 @@
+Target dependency graph (3 targets)
+Pods-NewsApp in Pods
+Pods-NewsApp-NewsAppUITests in Pods
+Pods-NewsAppTests in Pods, depends on:
+Pods-NewsApp in Pods (explicit)
